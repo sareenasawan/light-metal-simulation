@@ -15,3 +15,6 @@ A simple Python simulation to study how visible light interacts with metallic su
 Install via pip:
 ```bash
 pip install numpy matplotlib
+
+### 📈 Sample Output
+![Reflection Plot](Figure_1.png)
