@@ -17,4 +17,5 @@ Install via pip:
 pip install numpy matplotlib
 
 ### 📈 Sample Output
+
 ![Reflection Plot](Figure_1.png)
